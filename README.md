@@ -1,6 +1,6 @@
-# progetto
+# Project
 
-A new Flutter project.
+Project developed by Sara Schiavon and Luca Silli for the development of an application for Fitibit.
 
 ## Getting Started
 
